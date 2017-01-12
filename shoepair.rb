@@ -17,7 +17,6 @@ shoepair2 = ShoePair.new({type: "Driving Mocs", color: "silver", price: 80})
 shoepair3 = ShoePair.new({type: "Sandals", color: "mixt of green and yellow", price: 150})
 
 
-puts shoepair1.price
 shoepair1.price = 200
 puts shoepair1.info
 puts shoepair2.info
